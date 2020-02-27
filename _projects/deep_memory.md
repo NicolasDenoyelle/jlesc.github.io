@@ -15,6 +15,7 @@ members:
   - balasz_g
   - perarnau_s
   - ishikawa_y
+  - denoyelle_n
 ---
 
 ## Research topic and goals
